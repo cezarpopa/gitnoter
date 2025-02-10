@@ -29,7 +29,7 @@
     "react-scripts": "5.0.0",
     "remark-gfm": "^3.0.1",
     "sass": "^1.49.9",
-    "typescript": "~4.1.5"
+    "typescript": "~4.9.5"
   },
   "scripts": {
     "analyze": "react-scripts build && source-map-explorer 'build/static/js/*.js'",
